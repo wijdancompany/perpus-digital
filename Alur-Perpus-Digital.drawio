@@ -1,9 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T03:22:34.415Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.18" etag="5fARYpt3zLsnIC06WJTt" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T04:13:09.636Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="dsSu6rV80vkN_OGA9pxn" version="22.1.18" type="github">
   <diagram name="Page-1" id="60cmW6SKlsLgH1uI48o3">
-    <mxGraphModel>
+    <mxGraphModel dx="784" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9Pq9vmxy-cEk_oEvJt4a-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Pq9vmxy-cEk_oEvJt4a-1" target="9Pq9vmxy-cEk_oEvJt4a-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Pq9vmxy-cEk_oEvJt4a-1" value="User" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Pq9vmxy-cEk_oEvJt4a-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Pq9vmxy-cEk_oEvJt4a-4" target="9Pq9vmxy-cEk_oEvJt4a-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="340" />
+              <mxPoint x="370" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Pq9vmxy-cEk_oEvJt4a-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Pq9vmxy-cEk_oEvJt4a-4" target="9Pq9vmxy-cEk_oEvJt4a-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Pq9vmxy-cEk_oEvJt4a-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Pq9vmxy-cEk_oEvJt4a-4" target="9Pq9vmxy-cEk_oEvJt4a-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="340" />
+              <mxPoint x="370" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Pq9vmxy-cEk_oEvJt4a-4" value="Mengunjungi Perpus" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Pq9vmxy-cEk_oEvJt4a-6" value="Isi Form Pengunjung" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Pq9vmxy-cEk_oEvJt4a-9" value="Liihat Daftar Pengunjun" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Pq9vmxy-cEk_oEvJt4a-11" value="Pencarian Buku" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="450" width="130" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
