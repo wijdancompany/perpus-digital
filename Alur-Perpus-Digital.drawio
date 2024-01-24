@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T01:21:01.924Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="n73SyUDju90-F59itfY2" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T01:46:15.117Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="wPkgu0eCwLd-1DAztvov" version="22.1.21" type="github">
   <diagram name="Page-1" id="60cmW6SKlsLgH1uI48o3">
-    <mxGraphModel dx="969" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="803" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,6 +36,18 @@
         <mxCell id="9Pq9vmxy-cEk_oEvJt4a-6" value="Isi Form Pengunjung" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="415" y="260" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="r5J7Lad42ljIU0ggqtH3-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Pq9vmxy-cEk_oEvJt4a-11" target="r5J7Lad42ljIU0ggqtH3-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r5J7Lad42ljIU0ggqtH3-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Pq9vmxy-cEk_oEvJt4a-11" target="r5J7Lad42ljIU0ggqtH3-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="475" y="495" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="475" y="520" />
+              <mxPoint x="675" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9Pq9vmxy-cEk_oEvJt4a-11" value="Pencarian Buku" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="385" width="130" height="40" as="geometry" />
         </mxCell>
@@ -56,6 +68,21 @@
         </mxCell>
         <mxCell id="r5J7Lad42ljIU0ggqtH3-15" value="Daftar Kunjungan" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r5J7Lad42ljIU0ggqtH3-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r5J7Lad42ljIU0ggqtH3-17" target="r5J7Lad42ljIU0ggqtH3-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r5J7Lad42ljIU0ggqtH3-17" value="Masukkan kata kunci judul" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="383" width="120" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="r5J7Lad42ljIU0ggqtH3-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r5J7Lad42ljIU0ggqtH3-21" target="r5J7Lad42ljIU0ggqtH3-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r5J7Lad42ljIU0ggqtH3-21" value="Hasil pencarian" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="382.12" width="120" height="44.25" as="geometry" />
+        </mxCell>
+        <mxCell id="r5J7Lad42ljIU0ggqtH3-23" value="Lihat rincian buku" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="498.5" width="120" height="41.51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
